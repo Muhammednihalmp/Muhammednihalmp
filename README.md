@@ -41,6 +41,18 @@
 <img src="https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg" height="40" title="OWASP ZAP" />
 <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" height="40" title="SQLmap" />
 <img src="https://www.kali.org/tools/wifite/images/wifite-logo.svg" height="40" title="wifite" />
+<img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" height="40" title="maltego" />
+<img src="https://www.kali.org/tools/powershell/images/powershell-logo.svg" height="40" title="powershell" />
+<img src="" height="40" title="" />
+<img src="" height="40" title="" />
+<img src="" height="40" title="" />
+<img src="" height="40" title="" />
+<img src="" height="40" title="" />
+<img src="" height="40" title="" />
+<img src="" height="40" title="" />
+<img src="" height="40" title="" />
+<img src="" height="40" title="" />
+<img src="" height="40" title="" />
 </p>
 
 ---
