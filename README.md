@@ -20,28 +20,29 @@
 
 ---
 
-## 🛠 Tech Stack & Tools
-
-### 🖥 Programming Languages
+## 🛠 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
-</p>
-
-### 🔐 Hacking Tools
-<p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Metasploit_logo_and_wordmark.svg" height="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Kali_Linux_2.0_wordmark.svg" height="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wireshark_icon.svg" height="40" />
-<img src="https://nmap.org/images/nmap-logo-64px.png" height="40" />
-<img src="https://www.aircrack-ng.org/themes/aircrack-ng/logo.png" height="40" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,php,bash,go,rust,js,html,css" />
 </p>
 
 ---
 
-## 📂 Featured Projects
-- **ESP32 Wireless Pentesting Toolkit** – Wi-Fi scan, deauth, fake captive portal, OTA update  
-- **Telegram-Controlled IoT Devices** – Remote spycam, GPS tracker, automation control  
-- **College Bus Tracking System** – Real-time location tracking with Django + Leaflet
+## 🔐 Hacking Tools
+<p>
+<!-- Nmap (Highlighted) -->
+<img src="https://nmap.org/images/nmap-logo-64px.png" height="50" title="Nmap - Network Scanner" />
+
+<!-- Other tools -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Kali_Linux_2.0_wordmark.svg" height="40" title="Kali Linux" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Metasploit_logo_and_wordmark.svg" height="40" title="Metasploit" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wireshark_icon.svg" height="40" title="Wireshark" />
+<img src="https://www.aircrack-ng.org/themes/aircrack-ng/logo.png" height="40" title="Aircrack-ng" />
+<img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" height="40" title="Burp Suite" />
+<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" height="40" title="Hydra" />
+<img src="https://www.kali.org/tools/john/images/john-logo.svg" height="40" title="John the Ripper" />
+<img src="https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg" height="40" title="OWASP ZAP" />
+<img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" height="40" title="SQLmap" />
+</p>
 
 ---
 
