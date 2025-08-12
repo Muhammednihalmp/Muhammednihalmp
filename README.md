@@ -27,16 +27,14 @@
 
 ---
 
-## 🔐 Hacking Tools
+## 🔐 Hacking & Cybersecurity Tools
 <p>
 <!-- Nmap (Highlighted) -->
 <img src="https://nmap.org/images/nmap-logo-64px.png" height="50" title="Nmap - Network Scanner" />
 
 <!-- Other tools -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Kali_Linux_2.0_wordmark.svg" height="40" title="Kali Linux" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Metasploit_logo_and_wordmark.svg" height="40" title="Metasploit" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wireshark_icon.svg" height="40" title="Wireshark" />
-<img src="https://www.aircrack-ng.org/themes/aircrack-ng/logo.png" height="40" title="Aircrack-ng" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40" title="Linux" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ghidra_logo.svg/512px-Ghidra_logo.svg.png" height="40" title="Ghidra" />
 <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" height="40" title="Burp Suite" />
 <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" height="40" title="Hydra" />
 <img src="https://www.kali.org/tools/john/images/john-logo.svg" height="40" title="John the Ripper" />
