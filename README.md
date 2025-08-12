@@ -3,7 +3,7 @@
 
 # 👋 Hey, I'm **Muhammed Nihal MP**
 
-💻 **Computer Engineering Student | Ethical Hacker | Maker | Innovator**  
+💻 **Computer Engineer | Ethical Hacker | Maker | Innovator**  
 🚀 Passionate about **Cybersecurity, IoT, Hardware Hacking, and Software Development**.  
 🔥 Blending **electronics, hacking, and coding** into real-world solutions.  
 
