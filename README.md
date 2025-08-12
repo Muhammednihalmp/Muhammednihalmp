@@ -30,7 +30,7 @@
 ## 🔐 Hacking & Cybersecurity Tools
 <p>
 <!-- Nmap (Highlighted) -->
-<img src="https://nmap.org/images/nmap-logo-64px.png" height="50" title="Nmap - Network Scanner" />
+<img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" height="40" title="Nmap - Network Scanner" />
 
 <!-- Other tools -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40" title="Linux" />
