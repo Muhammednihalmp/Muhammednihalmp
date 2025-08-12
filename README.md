@@ -34,7 +34,7 @@
 
 <!-- Other tools -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40" title="Linux" />
-<img src="https://www.pinclipart.com/picdir/big/344-3448955_ghidra-logo-with-dragon-clipart.png" height="40" title="Ghidra" />
+<img src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" height="40" title="Ghidra" />
 <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" height="40" title="Burp Suite" />
 <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" height="40" title="Hydra" />
 <img src="https://www.kali.org/tools/john/images/john-logo.svg" height="40" title="John the Ripper" />
@@ -54,7 +54,7 @@
 <img src="https://www.kali.org/tools/ettercap/images/ettercap-logo.svg" height="40" title="ettercap" />
 <img src="https://www.kali.org/tools/tcpdump/images/tcpdump-logo.svg" height="40" title="tcpdump" />
 <img src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" height="40" title="bettercap" />
-<img src="" height="40" title="" />
+<img src="http://kali.org/tools/sara/images/sara-logo.svg" height="40" title="sara" />
 <img src="" height="40" title="" />
 <img src="" height="40" title="" />
 </p>
