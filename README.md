@@ -40,6 +40,7 @@
 <img src="https://www.kali.org/tools/john/images/john-logo.svg" height="40" title="John the Ripper" />
 <img src="https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg" height="40" title="OWASP ZAP" />
 <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" height="40" title="SQLmap" />
+<img src="https://www.kali.org/tools/wifite/images/wifite-logo.svg" height="40" title="wifite" />
 </p>
 
 ---
