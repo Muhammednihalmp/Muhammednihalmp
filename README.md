@@ -1,6 +1,4 @@
 <!-- Profile Banner -->
-![Banner](https://i.ibb.co/ZmT3LPm/hacker-banner.jpg)
-
 # 👋 Hey, I'm **Muhammed Nihal MP**
 
 💻 **Computer Engineer | Ethical Hacker | Maker | Innovator**  
