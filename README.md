@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 **3rd Year Diploma in Computer Engineering** @ Madin Polytechnic College, Kerala, India  
+- 🎓 **Diploma in Computer Engineering** @ Ma’din College of Engineering and Management, Kerala, India  
 - 🔭 Working on:  
   - **ESP32-based hacking gadgets**  
   - **Telegram bot automation for IoT & pentesting**  
