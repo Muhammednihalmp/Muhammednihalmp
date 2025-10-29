@@ -1,134 +1,207 @@
 <div align="center">
 
-<!-- Minimalist Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=MUHAMMED%20NIHAL%20MP&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
+# 🛡️ Muhammed Nihal MP
 
-<br>
+### 💻 Computer Engineer | 🔐 Ethical Hacker | 🔧 Hardware Innovator
 
-### 🛡️ Security Researcher • Hardware Hacker • IoT Innovator
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Specialist;IoT+%26+Hardware+Hacker;Full+Stack+Developer;Penetration+Testing+Expert" alt="Typing SVG" />
 
-<br>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadnihalmp955@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-nihal-mp-96a346283/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Muhammed_Nihal_MP)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhammadnihalmp955@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-nihal-mp-96a346283/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Muhammed_Nihal_MP)
-
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
----
-
-## About
+## 🎯 About Me
 
 ```python
-class SecurityResearcher:
+class EthicalHacker:
     def __init__(self):
         self.name = "Muhammed Nihal MP"
-        self.role = "Computer Engineer & Ethical Hacker"
-        self.location = "Kerala, India"
+        self.role = "Computer Engineer & Security Researcher"
         self.education = "Diploma in Computer Engineering"
+        self.institution = "Ma'din College of Engineering, Kerala, India"
+        self.location = "Kerala, India 🇮🇳"
         
-    def current_work(self):
-        return {
-            "focus": [
-                "ESP32 pentesting devices",
-                "Telegram automation bots",
-                "Wireless exploitation tools"
-            ],
-            "learning": [
-                "Advanced ethical hacking",
-                "Hardware exploitation",
-                "Robotics & IoT security"
-            ]
-        }
+    def current_focus(self):
+        return [
+            "ESP32-based Penetration Testing Devices",
+            "Telegram Bot Automation for IoT",
+            "Wi-Fi & Bluetooth Exploitation Tools",
+            "Hardware Hacking & Reverse Engineering"
+        ]
+    
+    def life_motto(self):
+        return "Understanding systems deeply to make them better"
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Tech Stack
+## 🚀 Current Projects
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+<table>
+<tr>
+<td width="50%">
 
-**Security Tools**  
-Nmap • Burp Suite • Metasploit • Wireshark • SQLmap • Hydra • John • Hashcat • Ghidra • Autopsy • Bettercap • Aircrack-ng
+### 🔧 ESP32 Hacking Suite
+Building advanced ESP32-based pentesting gadgets for wireless security auditing and IoT exploitation.
 
-**Hardware & IoT**  
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+**Tech Stack:** `ESP32` `C++` `Arduino` `Wi-Fi` `BLE`
 
-**Systems**  
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![Parrot](https://img.shields.io/badge/Parrot_OS-33CCFF?style=flat&logo=parrot-security&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+</td>
+<td width="50%">
 
----
+### 🤖 Telegram IoT Bots
+Developing intelligent automation bots for remote IoT control and penetration testing workflows.
 
-## Projects
+**Tech Stack:** `Python` `Telegram API` `IoT Protocols`
 
-### 🔧 ESP32 Hacker Pro
-Multi-protocol wireless hacking device for Wi-Fi deauth, BLE exploitation, and network reconnaissance  
-`ESP32` `C++` `Wi-Fi` `Bluetooth`
+</td>
+</tr>
+</table>
 
-### 🤖 TeleSec Bot
-Telegram automation framework for IoT control and security testing workflows  
-`Python` `Telegram API` `AsyncIO`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📡 WirelessNinja
-Comprehensive wireless penetration testing toolkit with automated attack chains  
-`Python` `Scapy` `Bash`
+## 💻 Tech Arsenal
 
----
+### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,php,bash,go,rust,js,html,css&theme=dark" />
+</p>
 
-## GitHub Stats
+### Cybersecurity & Penetration Testing
+<details>
+<summary><b>🔐 Click to view complete toolkit</b></summary>
+<br>
+
+| Category | Tools |
+|----------|-------|
+| **Network Scanning** | Nmap, Netdiscover, Wireshark, Tcpdump |
+| **Web Application** | Burp Suite, OWASP ZAP, SQLmap, Gobuster, WPScan |
+| **Password Cracking** | John the Ripper, Hashcat, Hydra |
+| **Wireless Security** | Wifite, Bettercap, Ettercap |
+| **Forensics** | Autopsy, Wireshark |
+| **OSINT** | theHarvester, Maltego |
+| **Reverse Engineering** | Ghidra |
+| **Exploitation** | PowerShell, Evil-WinRM |
+
+</details>
+
+### Hardware & IoT
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-0078D4?style=for-the-badge&logo=internet-of-things&logoColor=white" />
+</p>
+
+### Operating Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parrot_OS-33CCFF?style=for-the-badge&logo=parrot-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammednihalmp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammednihalmp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammednihalmp&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammednihalmp&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎓 Learning Journey
+
+```mermaid
+graph LR
+    A[Computer Engineering] --> B[Cybersecurity]
+    A --> C[IoT Development]
+    B --> D[Ethical Hacking]
+    B --> E[Hardware Exploitation]
+    C --> F[ESP32 Projects]
+    C --> G[Automation Bots]
+    D --> H[Penetration Testing]
+    E --> H
+    F --> I[All-in-One Hacking Device]
+    G --> I
+    H --> I
+```
+
+### 🌱 Currently Mastering
+- 🔐 Advanced Penetration Testing Techniques
+- 🔧 Hardware Reverse Engineering & Exploitation
+- 🤖 Robotics & Automation Systems
+- 📡 Wireless Communication Protocols
+- 🛡️ Network Security Architecture
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 Achievements & Goals
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Muhammednihalmp&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=Muhammednihalmp&theme=dark&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammednihalmp&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8)
+| 🎯 Goal | 📈 Status |
+|---------|-----------|
+| Build All-in-One Pentesting Device | 🔄 In Progress |
+| Master Hardware Exploitation | 🔄 In Progress |
+| Contribute to Security Tools | 📝 Planning |
+| Develop IoT Security Framework | 📝 Planning |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Philosophy
-
-> *"Ethical hacking is about understanding systems deeply to make them more secure, not about breaking them. Knowledge is power when used responsibly."*
-
-**Core Values:** Security • Innovation • Education • Ethics
-
----
-
-## Connect
-
-Open for collaboration on:
-- 🔐 Cybersecurity research projects
-- 🔧 Hardware hacking innovations
-- 🤖 IoT security solutions
-- 💻 Open source security tools
-
-**Let's build a more secure digital future together.**
-
----
+## 💡 Philosophy
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Muhammednihalmp&color=00d9ff&style=flat)
+> *"Hacking is not about breaking rules—it's about understanding systems deeply and making them better, more secure, and more innovative."*
 
-<sub>⚡ Built with passion for security • 2025</sub>
+### 🛡️ Ethical Hacking Principles
+**Knowledge • Responsibility • Innovation • Security**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📫 Let's Connect
+
+<div align="center">
+
+### 🤝 Open for Collaboration
+
+I'm always interested in working on:
+- 🔐 Cybersecurity Research Projects
+- 🔧 Hardware Hacking Innovations
+- 🤖 IoT Security Solutions
+- 💻 Open Source Security Tools
+
+**Feel free to reach out for collaborations, discussions, or just to connect!**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Muhammednihalmp&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  
+### ⭐ From [Muhammednihalmp](https://github.com/Muhammednihalmp) | Made with 💙 and ☕
 
 </div>
