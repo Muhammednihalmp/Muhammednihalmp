@@ -202,6 +202,6 @@ I'm always interested in working on:
 
 <div align="center">
   
-### ⭐ From [Muhammednihalmp](https://github.com/Muhammednihalmp) | Made with 💙 and ☕
+### ⭐ From [Muhammednihalmp](https://github.com/Muhammednihalmp) | Made with # and *
 
 </div>
