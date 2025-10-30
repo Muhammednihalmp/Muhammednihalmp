@@ -202,7 +202,8 @@ I'm always interested in working on:
 
 <div align="center">
   
-### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cf56e955-c04c-437f-bfbc-b1fb3814f725" />
+### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7889388e-91d9-4dbb-b73d-9e03a3bc0793" />
+
  From [Muhammednihalmp](https://github.com/Muhammednihalmp) | Made with # and *
 
 </div>
