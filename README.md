@@ -9,6 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadnihalmp955@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-nihal-mp-96a346283/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Muhammed_Nihal_MP)
+ <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNuanpmdjkwc3hubWptN3UwdHdpeHl4d2UzeWc5b3RlZm9zeGo0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rJjylYWcPdKSWc7Km9/giphy.gif"  />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
