@@ -204,7 +204,7 @@ I'm always interested in working on:
 
 <div align="center">
   
-### <img width="512" height="512" alt="image" src="https://github.com/Muhammednihalmp/Muhammednihalmp/blob/main/securityknightocat-Photoroom.png" />
+### <img width="512" height="512" alt="image" src="https://octodex.github.com/images/NUX_Octodex.gif" />
  From [Muhammednihalmp](https://github.com/Muhammednihalmp) | Made with 0 and 1
 
 </div>
