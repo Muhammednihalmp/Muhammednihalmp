@@ -197,7 +197,7 @@ I'm always interested in working on:
 <br>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=Muhammednihalmp&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views" /> -->
-![Profile Views](https://komarev.com/ghpvc/?username=Muhammednihalmp&label=Profile%20Views&color=00F7FF&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Muhammednihalmp&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
 
 
 </div>
